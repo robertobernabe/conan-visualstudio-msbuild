@@ -1,1 +1,1 @@
-# conan-vs-msbuild
+# conan-visualstudio-msbuild
